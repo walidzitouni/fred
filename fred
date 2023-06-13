@@ -1,0 +1,12 @@
+{
+  "AdsController": [
+    {
+      "AdMobId": "pub-2849466625918779",
+      "NetworkAds": "random",
+      "BannerAdmob": "ca-app-pub-2849466625918779/3509925353",
+      "BannerFacebook": "1331427594389908_1331428021056532",
+      "InterstitialAdmob": "ca-app-pub-2849466625918779/5014578712",
+      "InterstitialFacebook": "1331427594389908_1331427984389869"
+    }
+  ]
+}
